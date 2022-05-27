@@ -33,3 +33,51 @@ Since October 2021, I started working as a .Net backend developer.
 - OOP principles
 - Git, GitHub
 - Rider, Visual Studio
+
+---
+
+### Code example:
+
+**Leap Years KATA from CODEWARS:**
+In this kata you should simply determine, whether a given year is a leap year or not.
+In case you don't know the rules, here they are:
+
+- years divisible by 4 are leap years
+- but years divisible by 100 are not leap years
+- but years divisible by 400 are leap years*
+
+```
+public static class Kata
+{
+  public static bool IsLeapYear(int year)
+  {
+     return DateTime.IsLeapYear(year);
+  }
+}
+```
+
+---
+
+### Work experience:
+
+#### GPid development
+##### .Net developer • 10.2021 — Nowadays
+A couple of month work with ASP .Net WebAPI we were development transport CRM system
+
+
+#### Anthill
+##### .Net developer • 11.2021 — Nowadays
+For several months, I have been creating bots for sites using bunch of selenium and c#
+
+---
+
+### Courses:
+
+- ITransition developer course
+
+---
+
+### Languages:
+
+- English \- B1
+- Russian \- Native
